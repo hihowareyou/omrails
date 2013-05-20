@@ -1,0 +1,20 @@
+
+$navbarBackgroundHighlight: black;
+$navbarLinkColor: white;
+
+@import 'bootstrap';
+
+
+
+
+body {
+	padding-top: 80px;
+}
+
+@import 'bootstrap-responsive';
+
+.footer {
+	margin-top: 50px;
+	color: $grayLight;
+	text-align: center;
+}
